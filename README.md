@@ -1,5 +1,10 @@
-### Olaá! Eu sou Stefany Costa.
-<div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4A235A&size=35&center=true&vCenter=true&width=1000&lines=Olaá,+Meu+nome+é+Stefany+Costa;Estudo+Análise+e+Desenvolvimento+de+Sistemas;Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=stefanyccosta&bg_color=154360&color=ABEBC6&line=CE17EF&point=4A235A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
   <a href="https://github.com/stefanyccosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stefanyccosta&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanyccosta&layout=compact&langs_count=16&theme=cobalt"/>
@@ -18,6 +23,7 @@
   <a href="https://instagram.com/stefanyc_costa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 <div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
 
 
